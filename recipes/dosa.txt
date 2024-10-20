@@ -3,3 +3,5 @@ pan
 gas
 oil
 add karam to make karam dosa
+podi
+chetuny
